@@ -6,7 +6,7 @@ holds various resources and articles.
 ## Hacking
 
 This site is built using [Zola][getzola], and requires at least version
-`v0.10.0` of the tool built with SASS support.
+`v0.12.0` of the tool built with SASS support.
 
 ## Modification/Licensing
 
